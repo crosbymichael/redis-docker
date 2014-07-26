@@ -1,3 +1,5 @@
+# redis 2.8.13
+
 FROM debian:jessie
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
